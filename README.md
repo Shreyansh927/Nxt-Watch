@@ -1,2 +1,2 @@
-# Nxt-Watch
-Movie app
+# React project
+Bloglist app
